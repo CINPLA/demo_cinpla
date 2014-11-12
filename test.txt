@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello A!
 
 Hello, said Svenn-Arne
+=======
+hello!
+>>>>>>> parent of f239d49... Added gitignore and the letter A
